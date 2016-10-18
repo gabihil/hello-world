@@ -1,4 +1,4 @@
 # hello-world
 primul repository
 
-Asta este o modificare pe branch edit-ceva. 
+Asta este o modificare pe branch readme-edits. 
