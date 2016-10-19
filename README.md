@@ -1,7 +1,5 @@
 # hello-world
 primul repository
 
-Asta este o modificare pe branch readme-edits. Sa vedem ce conflict ne da! 
-Si cum il rezolvam! 
-:) 
+Nu mai vreau feature_x, acum sunt pe branch_nou. 
 
