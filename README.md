@@ -1,11 +1,12 @@
-# hello-worl
-
 # Technical solution in Ticketing 
 
 Technical solution is a new **status** in the ticket interface, similar to Closed and Solved. Users can select a solution, but the ticket remains still open. 
 
 # Interface display 
-The technical sol
+The technical solution is in the "Estado" drop-down. 
+
+![status](https://github.com/user-attachments/assets/3bd6de3a-f2e1-4703-97ac-16dd972e2768)
+
 
 ## Getting started
 
