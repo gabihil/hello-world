@@ -3,7 +3,7 @@
 Technical solution is a new **status** in the ticket interface, similar to Closed and Solved. Users can select a solution, but the ticket remains still open. 
 
 # Interface display and function
-The technical solution is in the "Estado" (Status) drop-down. After selecting it, the "Select Solution" drop down appears. When the user wants to close the ticket, the technical solution is selected by default, but the user can select another solution. 
+The technical solution is in the "Estado" (Status) drop-down. After selecting it, the "Select Solution" drop down appears. When the user wants to close the ticket, the technical solution previously selected is selected by default, but the user can select another solution. 
 
 ![status](https://github.com/user-attachments/assets/3bd6de3a-f2e1-4703-97ac-16dd972e2768)
 
